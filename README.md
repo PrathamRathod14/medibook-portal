@@ -1,6 +1,8 @@
-# 🏥 MediBook Portal
+# MediBook Portal
 
 A modern hospital appointment booking and management system built with React and TypeScript.
+
+Live: https://prathamrathod14.github.io/medibook-portal/
 
 ## Features
 
